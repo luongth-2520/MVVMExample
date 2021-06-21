@@ -1,0 +1,35 @@
+com/example/demomvvm/DataBindingTriggerClass.java
+ com.example.demomvvm.DataBindingTriggerClass
+com/example/demomvvm/DataBinderMapperImpl.java
+ com.example.demomvvm.DataBinderMapperImpl
+ com.example.demomvvm.DataBinderMapperImpl$InnerBrLookup
+ com.example.demomvvm.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/demomvvm/data/source/local/PokemonDAO_Impl.java
+ com.example.demomvvm.data.source.local.PokemonDAO_Impl
+ com.example.demomvvm.data.source.local.PokemonDAO_Impl$1
+ com.example.demomvvm.data.source.local.PokemonDAO_Impl$2
+ com.example.demomvvm.data.source.local.PokemonDAO_Impl$3
+ com.example.demomvvm.data.source.local.PokemonDAO_Impl$4
+ com.example.demomvvm.data.source.local.PokemonDAO_Impl$5
+com/example/demomvvm/databinding/ItemPokemonBinding.java
+ com.example.demomvvm.databinding.ItemPokemonBinding
+com/example/demomvvm/data/source/local/AppDatabase_Impl.java
+ com.example.demomvvm.data.source.local.AppDatabase_Impl
+ com.example.demomvvm.data.source.local.AppDatabase_Impl$1
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/demomvvm/BuildConfig.java
+ com.example.demomvvm.BuildConfig
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/demomvvm/BR.java
+ com.example.demomvvm.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/demomvvm/databinding/ActivityMainBinding.java
+ com.example.demomvvm.databinding.ActivityMainBinding
+com/example/demomvvm/databinding/ItemPokemonBindingImpl.java
+ com.example.demomvvm.databinding.ItemPokemonBindingImpl
+ com.example.demomvvm.databinding.ItemPokemonBindingImpl$OnClickListenerImpl
+com/example/demomvvm/databinding/ActivityMainBindingImpl.java
+ com.example.demomvvm.databinding.ActivityMainBindingImpl

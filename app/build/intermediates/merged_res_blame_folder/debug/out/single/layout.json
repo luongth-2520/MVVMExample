@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_pokemon.xml",
+        "source": "/home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/res/layout/item_pokemon.xml"
+    },
+    {
+        "merged": "/home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/res/layout/activity_main.xml"
+    }
+]

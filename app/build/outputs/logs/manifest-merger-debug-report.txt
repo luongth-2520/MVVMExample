@@ -1,0 +1,292 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:4.2.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/c73c4c14436f89c2a5625fd7ff52e4df/databinding-adapters-4.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:4.2.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/fdd38857b22af28c37bfe3f256e573a3/databinding-runtime-4.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:viewbinding:4.2.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/e3f7ce34d5c0da5cf478aa82b2f01e9e/viewbinding-4.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [org.koin:koin-androidx-ext:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/127a96086cde75d085c711d6fb6ec996/koin-androidx-ext-2.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/1b41582ff06175c8fc33ca7da6150702/koin-androidx-viewmodel-2.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [org.koin:koin-androidx-scope:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/a74d9b15c5dcfd1a58f1828ea022c5e2/koin-androidx-scope-2.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/003c2aa4a8748d5c1812d706e4a823ac/fragment-ktx-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/05345ea0022dd46b10100179cb3c278c/activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/1e70438422eaa42b7727474f45dfe4a6/core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/592be50b49a788bb817baffc999cadaf/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/21ca659892e68d196622eec9fda6ac42/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/0499139a54043f6b3b117fdece0720e5/room-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b619e038d598f4076c1421131b9f96a2/lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [org.koin:koin-android:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b1fc948859187ec08e7d2a4397ee4481/koin-android-2.2.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/75765365d57349a26447c12ae88299d4/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b5650933386be9f41e84e80e9a755dec/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/38c2592df57e240162454a51e366704a/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/f0e0717ab2affe8c4024f81211f0430f/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/ff20d7463e91dad2629e35bfb1c35986/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/c01da06ee67ed85624e1150c03e9f85f/swiperefreshlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/5134ff5df29b23294e5026c9bcca0908/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/cd27549d78af06a39df900318f52b005/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/37650f8a3872309db1eaae5339da152e/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/aa5ab83280f2f7d08099b2d59b8a31ff/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/79799e190aec0be3d1898fdc7846ef25/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/9aa0c9b1dc7f295959889a29b9de5860/glide-4.12.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/606a1306a6df9973046b22c5c60bf764/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/53153549d0d0d982ad3f3113fb88d1d9/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/89d8442529ab12a2736dda1e2986627e/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.5] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/1c517b697bfb6bbad3a039852d24cf1c/fragment-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.0-beta01] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/faad6e29e97ade4cb651b0e50e659040/activity-1.2.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/94ae07780c0a0bf1b8833f1ca8b2a44e/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/f8fbb0547a1a5450339c44d0e7d6621f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/e495c0797ee2fbc0b5778ba6ec58321a/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/de89caa8509e436ef7e85ffc9a0e868c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/82edac4549f921a7c76c94b1362016c7/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/a413692e5da16eff304a6651d275dad7/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/2bfa9040e5ba728550733cbf353b0629/lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/e3e36a82c632c2a5d2e40f2d3cc46bb9/lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/953c4e7e9c128f74641bc38aa852d5df/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/2e0d5a61908390373818a784544137bc/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-beta01] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/d4fbc1e14c26233ca64bd6714b052dc3/lifecycle-viewmodel-savedstate-2.3.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b8e162b97fa77b2daf431ee00d9f3476/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0-beta01] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/623b972ef46a3db6c6e2ec57af4d41fd/savedstate-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/51f504b42895a4dbce92103cb20c66db/room-runtime-2.3.0/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/ff035310e5ba939595f5a096f5a886b0/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/76621659316dce08d4b4d735668c89ac/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/5979f93e4d00d5f14d78862b760eb354/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/3b2f2f6853dc0bc268c775d4310d1702/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b69c820903867c83cf5f6ea3ed5bd9a4/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/a4f3e1d711dcb15c98d45ec715765806/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/15bf7079d52b339fdd9ee43bf6816112/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/8a9d48b6bf7ef85baeee30a6ff4fffd9/gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/e4b1dbd987f506d433f0c257bee5b23b/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/44254f83047a1417f5cf03fab16e2480/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/ec2009177b63fe1db0ad254e8c210a6a/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/8eccc6762a00ccf80ea5a4460f36819d/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/59676e352921f452ff87b3806ef815a0/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/73f81bad3433273e1a0d42eb11389fe3/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [org.koin:koin-androidx-ext:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/127a96086cde75d085c711d6fb6ec996/koin-androidx-ext-2.2.2/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-ext:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/127a96086cde75d085c711d6fb6ec996/koin-androidx-ext-2.2.2/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/1b41582ff06175c8fc33ca7da6150702/koin-androidx-viewmodel-2.2.2/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/1b41582ff06175c8fc33ca7da6150702/koin-androidx-viewmodel-2.2.2/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/a74d9b15c5dcfd1a58f1828ea022c5e2/koin-androidx-scope-2.2.2/AndroidManifest.xml:7:5-20
+MERGED from [org.koin:koin-androidx-scope:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/a74d9b15c5dcfd1a58f1828ea022c5e2/koin-androidx-scope-2.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b5650933386be9f41e84e80e9a755dec/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b5650933386be9f41e84e80e9a755dec/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/38c2592df57e240162454a51e366704a/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/38c2592df57e240162454a51e366704a/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/ff20d7463e91dad2629e35bfb1c35986/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/ff20d7463e91dad2629e35bfb1c35986/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/9aa0c9b1dc7f295959889a29b9de5860/glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/9aa0c9b1dc7f295959889a29b9de5860/glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/a413692e5da16eff304a6651d275dad7/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/a413692e5da16eff304a6651d275dad7/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/2bfa9040e5ba728550733cbf353b0629/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/2bfa9040e5ba728550733cbf353b0629/lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.room:room-runtime:2.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/51f504b42895a4dbce92103cb20c66db/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/51f504b42895a4dbce92103cb20c66db/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/8a9d48b6bf7ef85baeee30a6ff4fffd9/gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/8a9d48b6bf7ef85baeee30a6ff4fffd9/gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/44254f83047a1417f5cf03fab16e2480/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/44254f83047a1417f5cf03fab16e2480/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/a413692e5da16eff304a6651d275dad7/core-1.3.2/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:14:9-46
+	android:name
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:9:9-43
+activity#com.example.demomvvm.screen.main.MainActivity
+ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:15:19-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.2.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/c73c4c14436f89c2a5625fd7ff52e4df/databinding-adapters-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.2.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/c73c4c14436f89c2a5625fd7ff52e4df/databinding-adapters-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/fdd38857b22af28c37bfe3f256e573a3/databinding-runtime-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/fdd38857b22af28c37bfe3f256e573a3/databinding-runtime-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/e3f7ce34d5c0da5cf478aa82b2f01e9e/viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/e3f7ce34d5c0da5cf478aa82b2f01e9e/viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [org.koin:koin-androidx-ext:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/127a96086cde75d085c711d6fb6ec996/koin-androidx-ext-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-ext:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/127a96086cde75d085c711d6fb6ec996/koin-androidx-ext-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/1b41582ff06175c8fc33ca7da6150702/koin-androidx-viewmodel-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-viewmodel:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/1b41582ff06175c8fc33ca7da6150702/koin-androidx-viewmodel-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/a74d9b15c5dcfd1a58f1828ea022c5e2/koin-androidx-scope-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-androidx-scope:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/a74d9b15c5dcfd1a58f1828ea022c5e2/koin-androidx-scope-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/003c2aa4a8748d5c1812d706e4a823ac/fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/003c2aa4a8748d5c1812d706e4a823ac/fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/05345ea0022dd46b10100179cb3c278c/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/05345ea0022dd46b10100179cb3c278c/activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/1e70438422eaa42b7727474f45dfe4a6/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/1e70438422eaa42b7727474f45dfe4a6/core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/592be50b49a788bb817baffc999cadaf/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/592be50b49a788bb817baffc999cadaf/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/21ca659892e68d196622eec9fda6ac42/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/21ca659892e68d196622eec9fda6ac42/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/0499139a54043f6b3b117fdece0720e5/room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/0499139a54043f6b3b117fdece0720e5/room-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b619e038d598f4076c1421131b9f96a2/lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b619e038d598f4076c1421131b9f96a2/lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [org.koin:koin-android:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b1fc948859187ec08e7d2a4397ee4481/koin-android-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [org.koin:koin-android:2.2.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b1fc948859187ec08e7d2a4397ee4481/koin-android-2.2.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/75765365d57349a26447c12ae88299d4/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/75765365d57349a26447c12ae88299d4/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b5650933386be9f41e84e80e9a755dec/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b5650933386be9f41e84e80e9a755dec/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/38c2592df57e240162454a51e366704a/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/38c2592df57e240162454a51e366704a/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/f0e0717ab2affe8c4024f81211f0430f/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/f0e0717ab2affe8c4024f81211f0430f/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/ff20d7463e91dad2629e35bfb1c35986/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/ff20d7463e91dad2629e35bfb1c35986/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/c01da06ee67ed85624e1150c03e9f85f/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/c01da06ee67ed85624e1150c03e9f85f/swiperefreshlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/5134ff5df29b23294e5026c9bcca0908/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/5134ff5df29b23294e5026c9bcca0908/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/cd27549d78af06a39df900318f52b005/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/cd27549d78af06a39df900318f52b005/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/37650f8a3872309db1eaae5339da152e/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/37650f8a3872309db1eaae5339da152e/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/aa5ab83280f2f7d08099b2d59b8a31ff/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/aa5ab83280f2f7d08099b2d59b8a31ff/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/79799e190aec0be3d1898fdc7846ef25/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/79799e190aec0be3d1898fdc7846ef25/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/9aa0c9b1dc7f295959889a29b9de5860/glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/9aa0c9b1dc7f295959889a29b9de5860/glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/606a1306a6df9973046b22c5c60bf764/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/606a1306a6df9973046b22c5c60bf764/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/53153549d0d0d982ad3f3113fb88d1d9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/53153549d0d0d982ad3f3113fb88d1d9/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/89d8442529ab12a2736dda1e2986627e/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/89d8442529ab12a2736dda1e2986627e/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/1c517b697bfb6bbad3a039852d24cf1c/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/1c517b697bfb6bbad3a039852d24cf1c/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-beta01] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/faad6e29e97ade4cb651b0e50e659040/activity-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-beta01] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/faad6e29e97ade4cb651b0e50e659040/activity-1.2.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/94ae07780c0a0bf1b8833f1ca8b2a44e/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/94ae07780c0a0bf1b8833f1ca8b2a44e/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/f8fbb0547a1a5450339c44d0e7d6621f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/f8fbb0547a1a5450339c44d0e7d6621f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/e495c0797ee2fbc0b5778ba6ec58321a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/e495c0797ee2fbc0b5778ba6ec58321a/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/de89caa8509e436ef7e85ffc9a0e868c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/de89caa8509e436ef7e85ffc9a0e868c/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/82edac4549f921a7c76c94b1362016c7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/82edac4549f921a7c76c94b1362016c7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/a413692e5da16eff304a6651d275dad7/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/a413692e5da16eff304a6651d275dad7/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/2bfa9040e5ba728550733cbf353b0629/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/2bfa9040e5ba728550733cbf353b0629/lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/e3e36a82c632c2a5d2e40f2d3cc46bb9/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/e3e36a82c632c2a5d2e40f2d3cc46bb9/lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/953c4e7e9c128f74641bc38aa852d5df/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/953c4e7e9c128f74641bc38aa852d5df/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/2e0d5a61908390373818a784544137bc/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/2e0d5a61908390373818a784544137bc/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-beta01] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/d4fbc1e14c26233ca64bd6714b052dc3/lifecycle-viewmodel-savedstate-2.3.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-beta01] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/d4fbc1e14c26233ca64bd6714b052dc3/lifecycle-viewmodel-savedstate-2.3.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b8e162b97fa77b2daf431ee00d9f3476/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b8e162b97fa77b2daf431ee00d9f3476/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-beta01] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/623b972ef46a3db6c6e2ec57af4d41fd/savedstate-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-beta01] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/623b972ef46a3db6c6e2ec57af4d41fd/savedstate-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/51f504b42895a4dbce92103cb20c66db/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/51f504b42895a4dbce92103cb20c66db/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/ff035310e5ba939595f5a096f5a886b0/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/ff035310e5ba939595f5a096f5a886b0/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/76621659316dce08d4b4d735668c89ac/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/76621659316dce08d4b4d735668c89ac/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/5979f93e4d00d5f14d78862b760eb354/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/5979f93e4d00d5f14d78862b760eb354/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/3b2f2f6853dc0bc268c775d4310d1702/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/3b2f2f6853dc0bc268c775d4310d1702/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b69c820903867c83cf5f6ea3ed5bd9a4/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/b69c820903867c83cf5f6ea3ed5bd9a4/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/a4f3e1d711dcb15c98d45ec715765806/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/a4f3e1d711dcb15c98d45ec715765806/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/15bf7079d52b339fdd9ee43bf6816112/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/15bf7079d52b339fdd9ee43bf6816112/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/8a9d48b6bf7ef85baeee30a6ff4fffd9/gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/8a9d48b6bf7ef85baeee30a6ff4fffd9/gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/e4b1dbd987f506d433f0c257bee5b23b/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/e4b1dbd987f506d433f0c257bee5b23b/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/44254f83047a1417f5cf03fab16e2480/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/44254f83047a1417f5cf03fab16e2480/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/ec2009177b63fe1db0ad254e8c210a6a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/ec2009177b63fe1db0ad254e8c210a6a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/8eccc6762a00ccf80ea5a4460f36819d/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/8eccc6762a00ccf80ea5a4460f36819d/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/59676e352921f452ff87b3806ef815a0/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/59676e352921f452ff87b3806ef815a0/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/73f81bad3433273e1a0d42eb11389fe3/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/73f81bad3433273e1a0d42eb11389fe3/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tran.huu.luong/AndroidStudioProjects/DemoMVVM/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/2bfa9040e5ba728550733cbf353b0629/lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/2bfa9040e5ba728550733cbf353b0629/lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/2bfa9040e5ba728550733cbf353b0629/lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/2bfa9040e5ba728550733cbf353b0629/lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/2bfa9040e5ba728550733cbf353b0629/lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/51f504b42895a4dbce92103cb20c66db/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/51f504b42895a4dbce92103cb20c66db/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/51f504b42895a4dbce92103cb20c66db/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.3.0] /home/tran.huu.luong/.gradle/caches/transforms-2/files-2.1/51f504b42895a4dbce92103cb20c66db/room-runtime-2.3.0/AndroidManifest.xml:26:13-74
